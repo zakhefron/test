@@ -1,9 +1,9 @@
 const assert = require('assert');
-const uppercase = require('uppercase');
+const uppercase = require('../index.js');
 
 
-describe('',function(){
-	it('',function(){
+describe('Suite::uppercase()',function(){
+	it('Spec::checks whether upper case works',function(){
 		assert.equal(uppercase('hello world'),'HELLO WORLD');
 	});	
 });
