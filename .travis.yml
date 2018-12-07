@@ -7,3 +7,10 @@ sudo: false
 
 before_script:
   - npm install
+
+install:
+  - npm install -g codecov
+  
+script:
+  - istanbul cover ./node_modules/mocha/bin/_mocha --reporter lcovonly -- -R spec
+  - codecov
