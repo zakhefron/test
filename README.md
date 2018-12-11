@@ -17,6 +17,8 @@
 
 ## Installation
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3b7c51d3effe4af3bc1d92822511f8aa)](https://app.codacy.com/app/zakhefron/uppercase?utm_source=github.com&utm_medium=referral&utm_content=zakhefron/uppercase&utm_campaign=Badge_Grade_Dashboard)
+
 ```bash
 $ npm install zakhefron/uppercase
 ```
