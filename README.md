@@ -11,8 +11,7 @@
     </a>
     <img src="https://img.shields.io/github/package-json/v/zakhefron/uppercase.svg" alt="">
     <img src="https://img.shields.io/github/release/zakhefron/uppercase.svg" alt="">   
-    <img src="https://img.shields.io/codacy/grade/8a13fb78894c4d2b9eb44034a3a6c2fc/master.svg
-    " alt="">
+    <img src="https://img.shields.io/codacy/grade/8a13fb78894c4d2b9eb44034a3a6c2fc/master.svg" alt="">
   </p>
 </p>
 <hr/>
