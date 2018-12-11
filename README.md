@@ -13,17 +13,13 @@
     <img src="https://img.shields.io/github/release/zakhefron/uppercase.svg" alt="">
   </p>
 </p>
-
 <hr/>
-
-
 
 ## Installation
 
 ```bash
 $ npm install zakhefron/uppercase
 ```
-
 ## Example
 
 ```sh
@@ -32,9 +28,6 @@ const uppercase = require('uppercase');
 let welcome = "Hello World";
 console.log(uppercase(welcome)); //HELLO WORLD
 ```
-
-
-
 ## License
 
 MIT
