@@ -8,4 +8,6 @@ sudo: false
 before_script:
   - npm install
 
+script: "sbt clean coverage test"
+
 after_success: "sbt coveralls"
