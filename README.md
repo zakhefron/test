@@ -1,4 +1,9 @@
 [![Build Status](https://travis-ci.org/zakhefron/uppercase.svg?branch=master)](https://travis-ci.org/zakhefron/uppercase)
+![](https://img.shields.io/github/license/zakhefron/uppercase.svg)
+![](https://img.shields.io/github/package-json/v/zakhefron/uppercase.svg)
+![](https://img.shields.io/github/release/zakhefron/uppercase.svg)
+
+
 
 # Convert string to uppercase
 
