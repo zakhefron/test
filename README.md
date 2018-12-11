@@ -12,6 +12,7 @@ $ npm install zakhefron/uppercase
 
 ```sh
 const uppercase = require('uppercase');
+
 let welcome = "Hello World";
 console.log(uppercase(welcome)); //HELLO WORLD
 ```
